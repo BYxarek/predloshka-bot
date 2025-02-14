@@ -1,2 +1,3 @@
-# predloshka-bot
-A bot through which you can send suggestions (ideas) to the bot's author
+# predloshka-boе
+<hr>
+Бот для предложений - когда пользователь пишет в него, к примеру в начале /start то бот его приветствует, последующие любые сообщения которые пользователь напишет в бота (кроме /start), бот будет пересылать в отдельный чат.
