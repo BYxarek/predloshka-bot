@@ -3,7 +3,7 @@ from telegram import Update, Bot
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Задайте токен вашего бота и ID чата для пересылки сообщений
-TOKEN = ''
+TOKEN = 'bot-token'
 FORWARD_CHAT_ID = '-123456789'
 
 # Настройка логирования
