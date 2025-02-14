@@ -13,7 +13,9 @@
 
    
 # Установка
+```
 1. установить скрипт: git clone https://github.com/BYxarek/predloshka-bot
 2. Перейти к скрипту: cd predloshka-bot
 3. Установить зависимости: pip install -r requirements.txt
 4. Запустить бота: python bot.py
+```
