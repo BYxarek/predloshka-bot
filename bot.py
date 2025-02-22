@@ -3,8 +3,8 @@ from telegram import Update, Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext, CallbackQueryHandler
 
 # Задайте токен вашего бота и ID чата для пересылки сообщений
-TOKEN = '7896288617:AAF-mQsLLO1LAF4hj9TC8M3Vk-T3AJgIybY'
-FORWARD_CHAT_ID = '-1002485934130'  # ID группы, куда пересылаются сообщения
+TOKEN = ''
+FORWARD_CHAT_ID = '-1002485'  # ID группы, куда пересылаются сообщения
 
 # Настройка логирования
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
